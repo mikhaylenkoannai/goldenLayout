@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+/* You can add global styles to this file, and also import other style files */
+@import "~golden-layout/src/css/goldenlayout-base.css";
+@import "~golden-layout/src/css/goldenlayout-light-theme.css";
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  overflow: hidden;
+  background-color: #fdfdfd;
+}
